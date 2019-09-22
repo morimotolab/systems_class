@@ -34,4 +34,4 @@ Before visiting the download page, be warned: There are two distinct versions of
 - Open Anaconda Navigator (which has just been installed)
 - Look for "jupyter notebook" (and ignore all the other buttons even if they claim to be for science)
 - Start "jupyter notebook" (Click on Launch, or - in case it was absent - Install, which is shown beneath its logo)
-- Now navigate to 02_getting_started.ipynb. You might need to click on a separate tab in your browser to see the .ipynb files you had download. Alternatively, close the browser and start Anaconda again
+- Now navigate to 02_homework.ipynb. You might need to click on a separate tab in your browser to see the .ipynb files you had download. Alternatively, close the browser and start Anaconda again
