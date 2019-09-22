@@ -11,7 +11,7 @@ Seaborn and pandas are "libraries" of Python. Think of them as books of instruct
 <font color="green">Structure of the course</font>
 - Prior course on Oct 3rd: (custom study)
     - Download Anaconda
-    - Follow 02_getting_started.ipynb
+    - Follow 02_homework.ipynb
 
 
 # Getting started
