@@ -19,7 +19,7 @@ Seaborn and pandas are "libraries" of Python. Think of them as books of instruct
 ## Download this tutorial
 Github, which stores the code for this tutorial, is used (and required by some journals) to exchange computational code. However, you can not execute code on github itself, and editing code on github is difficult. 
 
-Instead, you will need to download a copy of this code, and store it on your computer. Click the above link, https://github.com/morimotolab/systems_class_2019, and then click on the large green button that says "Clone or download" and download the code as a ZIP file to your desktop. In case that after the download you only see a ZIP file on the desktop, rather than a folder containing the individual files of the code of the tutorial, you will need to uncompress the ZIP file. On many computers this will be possible by double-clicking on the ZIP file. This can also be accomplished on the (unix) command line by running: `unzip [filepath]`.
+Instead, you will need to download a copy of this code, and store it on your computer. Click the above link, https://github.com/morimotolab/systems_class, and then click on the large green button that says "Clone or download" and download the code as a ZIP file to your desktop. In case that after the download you only see a ZIP file on the desktop, rather than a folder containing the individual files of the code of the tutorial, you will need to uncompress the ZIP file. On many computers this will be possible by double-clicking on the ZIP file. This can also be accomplished on the (unix) command line by running: `unzip [filepath]`.
 
 
 ## Installing Anaconda
@@ -28,7 +28,7 @@ You can think of Anaconda as a tool box. While you could also get those tools se
 - pandas
 - seaborn
 
-Before visiting the download page, be warned: There are two distinct versions of Anaconda, where each contains comparable tools. <font color="green">Download a version for Python 3</font>, <font color="red">do not download a version for Python 2 </font> which is an old dialect of the Python language. With this in mind, go to the following page and download and subsequently install a Python 3 version: https://www.anaconda.com/download
+Before visiting the download page, be warned: There are two distinct versions of Anaconda, where each contains comparable tools. <font color="green">Download a version for Python 3</font>, <font color="red">do not download a version for Python 2 </font> which is an old dialect of the Python language. With this in mind, go to the following page and download and subsequently install a Python 3 version: https://www.anaconda.com/products/individual (scroll down)
 
 ## Starting your work environment
 - Open Anaconda Navigator (which has just been installed)
