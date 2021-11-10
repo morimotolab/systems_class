@@ -9,7 +9,7 @@ Congratulations for your first programming steps!
 Seaborn and pandas are "libraries" of Python. Think of them as books of instructions. If you have them available, you can call these instructions through the Python language to tell the computer how to accomplish very specialized tasks.
 
 <font color="green">Structure of the course</font>
-- Prior to class on November 18th: (custom study)
+- Prior to class on November 22nd: (custom study)
     - Download Anaconda
     - Follow 02_homework.ipynb
 
