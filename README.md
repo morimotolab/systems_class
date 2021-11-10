@@ -9,7 +9,7 @@ Congratulations for your first programming steps!
 Seaborn and pandas are "libraries" of Python. Think of them as books of instructions. If you have them available, you can call these instructions through the Python language to tell the computer how to accomplish very specialized tasks.
 
 <font color="green">Structure of the course</font>
-- Prior course on Oct 3rd: (custom study)
+- Prior to class on November 18th: (custom study)
     - Download Anaconda
     - Follow 02_homework.ipynb
 
@@ -19,7 +19,7 @@ Seaborn and pandas are "libraries" of Python. Think of them as books of instruct
 ## Download this tutorial
 Github, which stores the code for this tutorial, is used (and required by some journals) to exchange computational code. However, you can not execute code on github itself, and editing code on github is difficult. 
 
-Instead, you will need to download a copy of this code, and store it on your computer. Click the above link, https://github.com/morimotolab/systems_class, and then click on the large green button that says "Clone or download" and download the code as a ZIP file to your desktop. In case that after the download you only see a ZIP file on the desktop, rather than a folder containing the individual files of the code of the tutorial, you will need to uncompress the ZIP file. On many computers this will be possible by double-clicking on the ZIP file. This can also be accomplished on the (unix) command line by running: `unzip [filepath]`.
+Instead, you will need to download a copy of this code, and store it on your computer. Click the above link, https://github.com/morimotolab/systems_class, and then click on the large green button that says "Clone or download" and download the code as a ZIP file to your desktop. In case that after the download you only see a ZIP file on the desktop, rather than a folder containing the individual files of the code of the tutorial, you will need to uncompress the ZIP file. On many computers this will be possible by double-clicking on the ZIP file. This can also be accomplished on the (unix) command line by running: `unzip [filepath]`. Note that you can also run unix commands on Windows using the [Windows Subsystem for Linux (WSL)](https://docs.microsoft.com/en-us/windows/wsl/install).
 
 
 ## Installing Anaconda
