@@ -35,5 +35,5 @@ With this in mind, go to the following page and download and subsequently instal
 - Open Anaconda Navigator (which has just been installed)
 - Look for "jupyter notebook" (and ignore all the other buttons even if they claim to be for science)
 - Start "jupyter notebook" (Click on Launch, or - in case it was absent - Install, which is shown beneath its logo)
-- Now navigate to 02_homework.ipynb. You might need to click on a separate tab in your browser to see the .ipynb files you had download. Alternatively, close the browser and start Anaconda again
+- Now navigate to 02_tutorial.ipynb. You might need to click on a separate tab in your browser to see the .ipynb files you had download. Alternatively, close the browser and start Anaconda again
 - Instead of using Anaconda Navigator this can also be accomplished on the (unix) command line by running `jupyter notebook` in the desired directory.
